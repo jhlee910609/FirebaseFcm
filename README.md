@@ -10,9 +10,9 @@
 
 ##### 1. 안드로이드 스튜디오에서 `Firebase`를 연동시킨다.
 
-- 옆에 `assistance`의 설명과 관련 코드를 참고하면 된다.
+- 안드로이드 스튜디오 오른편의 `assistance`의 설명과 관련 코드를 참고하면 된다.
 
-![스크린샷 2017-07-05 오후 11.59.46](/Users/JunHee/Desktop/스크린샷 2017-07-05 오후 11.59.46.png)
+![](https://ws2.sinaimg.cn/large/006tKfTcgy1fh9fpo9to4j31kw0zk1cn.jpg)
 
 
 
@@ -76,9 +76,9 @@ public class MyFirebaseInstanceIDService extends FirebaseInstanceIdService {
 - node.js와 연동하기 위해서는 `cloud messaging server key`가 필요하다.
 - 아래 그림을 따라 가면 server key 구하는 것은 어렵지 않다.
 
-![스크린샷 2017-07-06 오전 12.17.11(2)](/Users/JunHee/Desktop/스크린샷 2017-07-06 오전 12.17.11(2).png)
+![](https://ws2.sinaimg.cn/large/006tKfTcgy1fh9fqs9xdyj311y0lcwic.jpg)
 
-![스크린샷 2017-07-06 오전 12.17.20(2)](/Users/JunHee/Desktop/스크린샷 2017-07-06 오전 12.17.20(2).png)
+![](https://ws2.sinaimg.cn/large/006tKfTcgy1fh9fr5ewwhj311y0lcwir.jpg)
 
 ##### 3.2. node.js로 간단한 web server 구축하기 [소스코드 보기]
 
