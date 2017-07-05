@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1050903708336",
+    "firebase_url": "https://fir-practicingfcm.firebaseio.com",
+    "project_id": "fir-practicingfcm",
+    "storage_bucket": "fir-practicingfcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050903708336:android:32898ad569946c6d",
+        "android_client_info": {
+          "package_name": "com.junhee.android.firebasepracticingfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050903708336-tn19u9or8598tqprgvsfk4qasmhr4363.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.junhee.android.firebasepracticingfcm",
+            "certificate_hash": "20807db3d4170c513fca8fdd9b2537abb4dcb0d7"
+          }
+        },
+        {
+          "client_id": "1050903708336-raaf89dg4ebchoin6fhskm7ar9cv3vng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEw2EJQPhcKDwxWp-mfty-1w51VvHQFVA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050903708336-raaf89dg4ebchoin6fhskm7ar9cv3vng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
