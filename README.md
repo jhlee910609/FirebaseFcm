@@ -80,7 +80,7 @@ public class MyFirebaseInstanceIDService extends FirebaseInstanceIdService {
 
 ![](https://ws2.sinaimg.cn/large/006tKfTcgy1fh9fr5ewwhj311y0lcwir.jpg)
 
-##### 3.2. node.js로 간단한 web server 구축하기 [소스코드 보기]
+##### 3.2. node.js로 간단한 web server 구축하기 [소스코드 보기](https://github.com/jhlee910609/FirebaseFcm/blob/master/nodejs/server.js)
 
 - node.js와 firebase를 연동하기 위해 간단한 web server를 node.js로 구축했다.
 - 이 프로젝트에서 node.js의 역할은 client와의 http 통신 후, response(message 객체의 내용)를 웹 브라우져에 보여주는 정도이다.
